@@ -1,2 +1,2 @@
 # GameOfThrones3D
-Visualizing Game of Thrones using BERT
+Visualizing Game of Thrones with BERT
